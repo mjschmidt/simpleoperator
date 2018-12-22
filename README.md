@@ -1,7 +1,7 @@
 # The Simple Operator Project
 > Create a simple Operator From the OperatorSDK that is actually dynamically doing... something...
 
-❮img src="images/k8s-operators.jpg" width="400" height="300"❯
+❮img src="images/k8s-operators.jpg" width="400" height="300" ❯
 
 ## Purpose
 There is a lot for me to learn about go, operators and more about how they work in kubernetes. It is important for me to keep my techincal skills strong as I don't know if management is the right track for me. The purpose of this project is for me to develop as a technical individual in a field that interests me.
