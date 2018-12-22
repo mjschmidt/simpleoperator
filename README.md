@@ -1,5 +1,5 @@
 # The Simple Operator Project
-Create a simple Operator From the OperatorSDK.
+> Create a simple Operator From the OperatorSDK that is actually dynamically doing... something...
 
 ❮img src="images/k8s-operators.jpg" width="400" height="300"❯
 
